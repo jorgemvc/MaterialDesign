@@ -1,0 +1,8 @@
+C:\Users\Jorge VC\source\repos\MaterialDesign\Lollipop\LollipopUI\bin\Debug\LollipopUI.dll
+C:\Users\Jorge VC\source\repos\MaterialDesign\Lollipop\LollipopUI\bin\Debug\LollipopUI.pdb
+C:\Users\Jorge VC\source\repos\MaterialDesign\Lollipop\LollipopUI\obj\Debug\LollipopUI.csprojAssemblyReference.cache
+C:\Users\Jorge VC\source\repos\MaterialDesign\Lollipop\LollipopUI\obj\Debug\LollipopUI.Properties.Resources.resources
+C:\Users\Jorge VC\source\repos\MaterialDesign\Lollipop\LollipopUI\obj\Debug\LollipopUI.csproj.GenerateResource.cache
+C:\Users\Jorge VC\source\repos\MaterialDesign\Lollipop\LollipopUI\obj\Debug\LollipopUI.csproj.CoreCompileInputs.cache
+C:\Users\Jorge VC\source\repos\MaterialDesign\Lollipop\LollipopUI\obj\Debug\LollipopUI.dll
+C:\Users\Jorge VC\source\repos\MaterialDesign\Lollipop\LollipopUI\obj\Debug\LollipopUI.pdb
