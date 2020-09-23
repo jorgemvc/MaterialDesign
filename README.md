@@ -1,6 +1,6 @@
 C# Material Design/Lollipop WinForms UI
 =====================
-Today i introduce to you Google's Material Design Controls for WinForms projects rather than the default ones that come packed with .NET Framework.
+New version of Lollipop Winforms UI / Google's Material Design Controls for WinForms projects rather than the default ones that come packed with .NET Framework.
 
 Here is a screenshot:
 ![alt text](http://i.imgur.com/bp1Pyxh.png)
@@ -8,20 +8,20 @@ Here is a screenshot:
 
 ---
 #### Current state of the Controls
- | Support color | Disabled mode | Animated
---- | --- | --- | --- | ---
-Button | Yes | Yes | Yes
-Flat Button | Yes | Yes | Yes
-Check Box | Yes | Yes | Yes
-Toggle Button | Yes | Yes | Yes
-Radio Button | Yes | Yes | Yes
-Card | Yes | No | Yes
-Small Card | Yes | Yes | No
-TextBox | Yes | Yes | Yes
-File Input | Yes | Yes | Yes
-Folder InPut | Yes | Yes | Yes
-Progress Bar | Yes | No | No
-Label | No | No | No
+| Control | Support color | Disabled mode | Animated |
+| --- | --- | --- | --- |
+| Button | Yes | Yes | Yes |
+| Flat Button | Yes | Yes | Yes |
+| Check Box | Yes | Yes | Yes |
+| Toggle Button | Yes | Yes | Yes |
+| Radio Button | Yes | Yes | Yes |
+| Card | Yes | No | Yes |
+| Small Card | Yes | Yes | No |
+| TextBox | Yes | Yes | Yes |
+| File Input | Yes | Yes | Yes |
+| Folder InPut | Yes | Yes | Yes |
+| Progress Bar | Yes | No | No |
+| Label | No | No | No |
 
 ---
 
