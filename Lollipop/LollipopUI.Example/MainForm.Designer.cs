@@ -187,11 +187,11 @@
       // 
       this.lollipopLabel2.AutoSize = true;
       this.lollipopLabel2.BackColor = System.Drawing.Color.Transparent;
-      this.lollipopLabel2.Font = new System.Drawing.Font("Roboto Medium", 10F);
+      this.lollipopLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
       this.lollipopLabel2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(153)))), ((int)(((byte)(153)))), ((int)(((byte)(153)))));
       this.lollipopLabel2.Location = new System.Drawing.Point(548, 396);
       this.lollipopLabel2.Name = "lollipopLabel2";
-      this.lollipopLabel2.Size = new System.Drawing.Size(43, 19);
+      this.lollipopLabel2.Size = new System.Drawing.Size(42, 17);
       this.lollipopLabel2.TabIndex = 12;
       this.lollipopLabel2.Text = "False";
       // 

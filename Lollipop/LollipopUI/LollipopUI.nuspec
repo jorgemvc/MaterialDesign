@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>LollipopUI</id>
+    <version>0.9.0</version>
+    <title>LollipopUI</title>
+    <authors>ViKi4Tech, jorgemvc</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/jorgemvc/MaterialDesign</projectUrl>
+    <icon>images\lollipop64.png</icon>
+    <description>Material Design Lollipop UI</description>
+    <releaseNotes>See github for realese notes.</releaseNotes>
+    <copyright>Copyright Jorge Villalobos © 2020</copyright>
+    <tags>winforms controls material design</tags>
+    <dependencies>
+      <group targetFramework="NETFramework4.8" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="lollipop64.png" target="images\" />
+  </files>
+</package>
