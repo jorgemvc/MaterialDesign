@@ -1,13 +1,11 @@
 C# Material Design/Lollipop WinForms UI
 =====================
-New version of Lollipop Winforms UI / Google's Material Design Controls for WinForms projects rather than the default ones that come packed with .NET Framework.
+Lollipop Winforms UI / Google's Material Design Controls for WinForms projects rather than the default ones that come packed with .NET Framework.
 
-Here is a screenshot:
-![alt text](http://i.imgur.com/bp1Pyxh.png)
-![alt text](http://i.imgur.com/UdJJr1M.png)
+![LollipopUIExample](https://user-images.githubusercontent.com/15968289/93951035-78670200-fd02-11ea-9b35-17c81f09009f.png)
 
 ---
-#### Current state of the Controls
+## Current state of the Controls
 | Control | Support color | Disabled mode | Animated |
 | --- | --- | --- | --- |
 | Button | Yes | Yes | Yes |
@@ -25,21 +23,14 @@ Here is a screenshot:
 
 ---
 
-#### To implement LollipopUI in your application
+## To implement LollipopUI in your application
 
-**1. Add the resources to your project**
+### 1. Add the library to your project
 
-- Add **Roboto-Medium** and **Roboto-Regular** fonts to resources.
-- Open **solution explorer** and **Right-click** on **Roboto-Medium** => Properties => Change **Build Action** from "None" to "Embedded Resource".....Do the same to **Roboto-Regular** .
+Search for LollipopUI on the Nuget Package manager inside VisualStudio and add it to your project.
 
-**2. Add the references**
+![LollipopUIInstall](https://user-images.githubusercontent.com/15968289/93951541-dd6f2780-fd03-11ea-8a1d-3ec49925b7ef.png)
 
-- add `System.Design.dll` reference to your project. To do that click on **Project** tab => Choose **Add Reference** => Select `System.Design` and press ok.
+### 2. All controls will appear in the toolbox automatically
 
-#### Contact
-
-If you need any help or anything else, don't hesitate =D
-
-- My Facebook acc: https://www.facebook.com/profile.php?id=100006635474719
-- v.i.k.i Facebook: https://www.facebook.com/VikiTechnology
-- v.i.k.i Google+: https://plus.google.com/u/0/b/113510021162458322468/113510021162458322468
+![LollipopUIToolbar](https://user-images.githubusercontent.com/15968289/93951277-1d81da80-fd03-11ea-8eae-5140be2ad147.png)
